@@ -203,6 +203,7 @@ const PostsContainer = styled.section`
     font-weight: 700;
     font-size: 19px;
     line-height: 23px;
+    text-align: center;
   }
 `;
 
